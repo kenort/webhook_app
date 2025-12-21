@@ -1,0 +1,5 @@
+{
+    "name": "webhook-gas",
+    "main": "src/index.js",
+    "compatibility_date": "2025-12-21"
+}
