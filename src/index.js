@@ -45,6 +45,10 @@ export default {
             case 'form_asignacion_clave':
                 gasUrl = env.GAS_URL_CLAVES;
                 break;
+            
+            case 'lev_necesidad':
+                gasUrl = env.GAS_URL_LEV_NECESIDAD;
+                break;
 
             default:
                 return new Response(
